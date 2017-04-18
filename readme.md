@@ -4,6 +4,7 @@ This is an Example for a FileCloud API written in Java.
 ## FileCloud
 
 [![FileCloud Logo][filecloud_logo]][filecloud]
+
 FileCloud is a Dropbox-like file sharing and sync solution. You can run FileCloud on
 your own IT Infrastructure or let it be Hosted by FileCloud.
 
