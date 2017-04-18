@@ -1,0 +1,16 @@
+#Testparameter für die JUnit Tests
+validUser  			= username
+validPass  			= password
+validURL   			= https://url.to.filecloud
+validSubfolderName	= test
+validPath			= /folder/path
+validEMail			= user.name@gmail.com
+validRemEMail		= user2.name@gmail.com
+validShareName		= share1
+validShareDelName	= share2
+validServerPathDown	= /folder/path/bild.jpg
+validLocalFilePath	= C:/test/bild.jpg
+invalidEMail		= c
+invalidUser 		= a
+invalidPass 		= b
+invalidPath			= /a/h
