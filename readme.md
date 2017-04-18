@@ -6,7 +6,9 @@ This is an Example for a FileCloud API written in Java.
 [![FileCloud Logo][filecloud_logo]][filecloud]
 
 FileCloud is a Dropbox-like file sharing and sync solution. You can run FileCloud on
-your own IT Infrastructure or let it be Hosted by FileCloud.
+your own IT Infrastructure or let it be Hosted by FileCloud. With FileCloud you have
+securely access to your data from anywhere using any device. You can share Files by
+creating public or passwort protected links or share it to other users.
 
 ## Sample Code
 
@@ -15,8 +17,8 @@ Filecloud fc = new Filecloud();
 
 fc.setUrl("https://url.to.filecloud")
 if (!fc.login(USERNAME, PASSWORD)){
-System.out.println("Login Fehlgeschlagen");
-return;
+	System.out.println("Login Fehlgeschlagen");
+	return;
 }
 System.out.println("Login OK");
 
