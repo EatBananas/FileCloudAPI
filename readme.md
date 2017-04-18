@@ -3,11 +3,11 @@ This is an Example for a FileCloud API written in Java.
 
 ## FileCloud
 
-[filecloud_logo]
+[![FileCloud Logo][filecloud_logo]][filecloud]
 FileCloud is a Dropbox-like file sharing and sync solution. You can run FileCloud on
 your own IT Infrastructure or let it be Hosted by FileCloud.
 
-## Example Code
+## Sample Code
 
 ```
 Filecloud fc = new Filecloud();
@@ -41,3 +41,4 @@ This Filecloud API is released under the [MIT license](LICENSE), and written in 
 
 
 [filecloud_logo]: https://www.getfilecloud.com/supportdocs/download/attachments/1966229/logoblue.png
+[filecloud]: https://www.getfilecloud.com/
